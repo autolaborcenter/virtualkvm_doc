@@ -2,7 +2,7 @@
  * @Description: 
  * @Date: 2021-01-24 10:09:37
  * @LastEditors: CK.Zh
- * @LastEditTime: 2021-01-24 13:36:24
+ * @LastEditTime: 2021-01-24 13:36:39
  * @FilePath: \undefinede:\source\virtualkvm_doc\README.md
 -->
 # VirtualKVM doc
@@ -12,7 +12,7 @@ VirtualKVM 使用文档
 
 1. 使用USB线连接`HOST`口到`主控机`
 2. 使用USB线连接`SLVAE`口到`被控机`，使用HDMI线连接`HDMI`口到`被控机`视频输出口
-3. 在主控电脑上打开`VirtualKVM`客户端软件
+3. 在主控机上打开`VirtualKVM`客户端软件
 
 ## 客户端下载
 
