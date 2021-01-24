@@ -2,11 +2,11 @@
  * @Description: 
  * @Date: 2021-01-24 10:09:37
  * @LastEditors: CK.Zh
- * @LastEditTime: 2021-01-24 13:36:39
+ * @LastEditTime: 2021-01-24 13:48:12
  * @FilePath: \undefinede:\source\virtualkvm_doc\README.md
 -->
-# VirtualKVM doc
-VirtualKVM 使用文档
+# VirtualKVM User's Guide
+VirtualKVM 用户指南
 
 ## 快速开始
 
@@ -77,5 +77,6 @@ VirtualKVM 使用文档
 
 * “哪些设备可以作为被控机？”
 
-    树莓派、JetsonNANO、笔记本电脑、台式电脑、电视盒子、Nintendo Switch、Smartisan TNT、三星手机PC模式、华为手机PC模式...
+    树莓派、JetsonNANO、笔记本电脑、台式电脑、电视盒子、Nintendo Switch、Smartisan TNT、三星手机PC模式、华为手机PC模式.....
+    
     理论上任何支持HDMI输出和键鼠输入的设备都可使用
