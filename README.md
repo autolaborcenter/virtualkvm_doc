@@ -16,7 +16,7 @@ VirtualKVM 用户指南
 
 ## 客户端下载
 
-https://github.com/autolaborcenter/virtualkvm_doc/releases
+[Virtual KVM Releases→](https://github.com/autolaborcenter/virtualkvm_doc/releases/)
 
 
 ## 客户端功能
