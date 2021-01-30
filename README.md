@@ -16,9 +16,8 @@ VirtualKVM 用户指南
 
 ## 客户端下载
 
-[VirtualKVM_win_x64.exe](./app/VirtualKVM_win_x64.exe)
+https://github.com/autolaborcenter/virtualkvm_doc/releases
 
-[VirtualKVM_win_x64_x86.exe](./app/VirtualKVM_win_x64_x86.exe)
 
 ## 客户端功能
 
