@@ -79,3 +79,9 @@ VirtualKVM 用户指南
     树莓派、JetsonNANO、笔记本电脑、台式电脑、电视盒子、Nintendo Switch、Smartisan TNT、三星手机PC模式、华为手机PC模式.....
     
     理论上任何支持HDMI输出和键鼠输入的设备都可使用
+    
+# 反馈
+
+> 欢迎通过下方链接向我们发送任何使用问题或反馈意见
+
+[ISSUES→](https://github.com/autolaborcenter/virtualkvm_doc/issues/)
