@@ -1,10 +1,3 @@
-<!--
- * @Description: 
- * @Date: 2021-01-24 10:09:37
- * @LastEditors: CK.Zh
- * @LastEditTime: 2021-01-24 13:48:12
- * @FilePath: \undefinede:\source\virtualkvm_doc\README.md
--->
 # VirtualKVM User's Guide
 VirtualKVM 用户指南
 
@@ -55,30 +48,28 @@ VirtualKVM 用户指南
 
 * “`ENUM`灯已点亮，为什么主控机无法控制被控机？”
 
-    如果被控机是`Windows`平台，请在客户端软件的`模式`选项中点选`默认`
-    如果被控机是`Linux`、`Android`、`macOS`等类Unix平台，请在客户端软件的`模式`选项中点选`类Unix`
+    * `被控机`为`Windows`平台：请在客户端软件的`模式`选项中点选`默认`
+    * `被控机`为`Linux`、`Android`、`macOS`等类Unix平台：请在客户端软件的`模式`选项中点选`类Unix`
 
 * “为什么在客户端看到的画面模糊/有畸变？”
 
-    请将客户端的`画质`设置为与`被控机`输出分辨率相同
-    或设置两者的画面比例为相同
+    * 将客户端的`画质`设置为与`被控机输出分辨率`相同
+    * 将客户端的`画面比例`设置为与`被控机输出画面比例`为相同
 
 * “被控机是笔记本或已经连接了显示器，该如何使用VirtualKVM？”
 
-    请将`被控机`的显示输出设置为`镜像模式`
+    * 将`被控机`的显示输出设置为`镜像模式`
 
 * “如何使被控机的声音通过主控机输出？”
 
-    * 设置`被控机`的音频输出为`HDMI`
+    * 将`被控机`的音频输出设置为`HDMI`
     * 确保所用HDMI线支持音频传输
     * 取消`主控机`麦克风静音（部分笔记本可能具有类似功能），麦克风权限对VirtualKVM开放
 
-
 * “哪些设备可以作为被控机？”
 
-    树莓派、JetsonNANO、笔记本电脑、台式电脑、电视盒子、Nintendo Switch、Smartisan TNT、三星手机PC模式、华为手机PC模式.....
-    
-    理论上任何支持HDMI输出和键鼠输入的设备都可使用
+    * 树莓派、JetsonNANO、笔记本电脑、台式电脑、电视盒子、Nintendo Switch、Smartisan TNT、三星手机PC模式、华为手机PC模式.....
+    * 理论上任何支持HDMI输出和键鼠输入的设备都可使用
     
 ## 反馈
 
