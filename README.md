@@ -15,7 +15,7 @@ VirtualKVM 用户指南
 | 平台  | 支持状态                          |
 |-------|-------------------------------|
 | Windows 10  | 已发布：64bit、32bit |
-| Windows 7 | 已开发：64bit、32bit                  |
+| Windows 7 | 已发布：64bit、32bit                  |
 | Ubuntu 20.04  | 规划中              |
 | macOS | N/A                  |
 | Android | N/A                  |
