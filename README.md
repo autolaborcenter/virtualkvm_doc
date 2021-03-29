@@ -12,6 +12,16 @@ VirtualKVM 用户指南
 [Virtual KVM Releases→](https://github.com/autolaborcenter/virtualkvm_doc/releases/)
 
 
+| 平台  | 支持状态                          |
+|-------|-------------------------------|
+| Windows 10  | 已发布：64bit、32bit |
+| Windows 7 | 已开发：64bit、32bit                  |
+| Ubuntu 20.04  | 规划中              |
+| macOS | N/A                  |
+| Android | N/A                  |
+| iOS | N/A                  |
+
+
 ## 客户端功能
 
 | 菜单  | 功能                          | 备注 |
